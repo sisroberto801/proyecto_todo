@@ -2,12 +2,14 @@
 
 ## 👨‍💻 Autor
 
-Nombre: Roberto Carlos Olguin Ledezma
+Nombre: Roberto Carlos Olguin Ledezma 
+
 Proyecto desarrollado como parte del Diplomado Fullstack - Módulo Vue 3.
 
 ## Accesos en session
 
 User: sergio@email.com
+
 Password: 123456
 
 ## 📌 Descripción General
