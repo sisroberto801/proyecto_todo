@@ -1,0 +1,68 @@
+{
+  "users": [
+    {
+      "email": "sergio@email.com",
+      "password": "$2a$10$g2Jxbmg5TDUVZp.8timXSOYZil6YMGhqxserGdVzHJKZUyNe5Wqhu",
+      "name": "sergio",
+      "id": 1
+    },
+    {
+      "email": "pedro@email.com",
+      "password": "$2a$10$KU8Wkv6rECyNMgbbCGuTH.CylfkmA/oGOd8RZRxoa.UclaKGMCTAO",
+      "name": "pedro arze",
+      "id": 2
+    }
+  ],
+  "projects": [
+    {
+      "nombre": "FIDEICOMISOS",
+      "descripcion": "FID para Banco",
+      "estado": "pendiente",
+      "fechaLimite": "2026-04-27",
+      "userId": 1,
+      "createdAt": "2026-04-19",
+      "id": 1
+    }
+  ],
+  "tasks": [
+    {
+      "titulo": "AHO-001 BE: Creacion de base de datos ",
+      "descripcion": "AHO-001 BE: Creacion de base de datos  desc",
+      "estado": "pendiente",
+      "prioridad": "baja",
+      "proyectoId": 1,
+      "userId": 1,
+      "createdAt": "2026-04-19",
+      "id": 1
+    },
+    {
+      "titulo": "AHO-002 BE: Check para validar campos de entrada",
+      "descripcion": "AHO-002 BE: Check para validar campos de entrada desc",
+      "estado": "pendiente",
+      "prioridad": "baja",
+      "proyectoId": 1,
+      "userId": 2,
+      "createdAt": "2026-04-19",
+      "id": 2
+    },
+    {
+      "titulo": "AHO-003 BE: Formulario registro de usuario",
+      "descripcion": "AHO-003 BE: Formulario registro de usuario desc",
+      "estado": "completado",
+      "prioridad": "alta",
+      "proyectoId": 1,
+      "userId": 2,
+      "createdAt": "2026-04-19",
+      "id": 3
+    },
+    {
+      "titulo": "xzc",
+      "descripcion": "zxczxc",
+      "estado": "en_progreso",
+      "prioridad": "media",
+      "userId": 1,
+      "createdAt": "2026-04-19",
+      "id": 4
+    }
+  ]
+}
